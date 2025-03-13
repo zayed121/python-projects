@@ -1,2 +1,3 @@
 # python-projects
-This is an ecommerce system using python
+This is my first project.
+An  ecommerce system using python !
